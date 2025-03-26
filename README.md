@@ -13,7 +13,7 @@
         ona okathamai prashne</br>
         <a href="https://www.google.com"> google</a>
         <body style="background-color:rgb(166, 194, 236)"></body>
-        <img src="" alt="Online Image" width="700" height="700">
+        <img src="wallpaperflare.com_wallpaper.jpg" alt="Online Image" width="700" height="700">
       <table border="5">
         <tr>
             <td></td>
